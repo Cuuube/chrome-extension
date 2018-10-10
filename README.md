@@ -3,7 +3,7 @@
 ## 文件简介
 * extension 导出的扩展源码文件夹。可以将该文件夹到chrome上打包
 * img 图片素材
-* script 开发源代码，main为主文件
+* src 开发源代码，main为主文件
 * static webpack打包结果
 * export.sh 有用的文件导出到extension脚本
 * manifest.json chrome插件重要的json设置文件
