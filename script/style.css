@@ -1,0 +1,9 @@
+html, body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#print {
+    width: 100px;
+    height: 100px;
+}

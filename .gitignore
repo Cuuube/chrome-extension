@@ -1,0 +1,5 @@
+static/
+extension/
+node_modules/
+.vs_code/
+.DS_Store
